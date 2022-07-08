@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ehtsham007
-- 👀 I’m interested in Software Testing ad Data Analystics
+- 👀 I’m interested in Software Testing and Data Analystics
 - 🌱 I’m currently learning Machine Learning Algorithms for my thesis project.
 
 <!---
