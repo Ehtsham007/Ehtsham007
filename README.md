@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ehtsham007
-- 👀 I’m interested in Software Testing and Data Analystics
-- 🌱 I’m currently learning Machine Learning Algorithms for my thesis project.
+- 👋 Hi, I’m Ehtsham Rashid
+- 👀 I’m interested in Software Testing.
+- 🌱 I’m Masters Graduated.
 
 <!---
 Ehtsham007/Ehtsham007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
