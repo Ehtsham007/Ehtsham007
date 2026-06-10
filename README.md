@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0ea5e9&height=180&section=header&text=Ehtsham%20Rashid&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=QA%20Engineer%20%C2%B7%20Test%20Automation%20%C2%B7%20Quality%20Advocate&descSize=18&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0ea5e9&height=180&section=header&text=Ehtsham%20Rashid&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Test%20Automation%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Automotive&descSize=16&descAlignY=72" width="100%" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ehtsham+Rashid;QA+Engineer+%26+Automation+Specialist;Breaking+Software+So+Users+Don't+Have+To;Quality+is+not+an+act%2C+it's+a+habit." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ehtsham+Rashid;Software+Test+Automation+Engineer;ISTQB%C2%AE+Certified+Tester;Automotive+%C2%B7+Computer+Vision+%C2%B7+Embedded" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -9,34 +9,32 @@
     <img src="https://komarev.com/ghpvc/?username=Ehtsham007&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Germany%20%F0%9F%87%A9%F0%9F%87%AA-success?style=flat" alt="Location" />
-  <img src="https://img.shields.io/badge/Role-QA%20Engineer-blueviolet?style=flat" alt="Role" />
-  <img src="https://img.shields.io/badge/Open%20to-QA%20Opportunities-2F81F7?style=flat" alt="Open to work" />
+  <img src="https://img.shields.io/badge/ISTQB%C2%AE-Certified%20Tester%20(CTFL)-blueviolet?style=flat" alt="ISTQB" />
+  <img src="https://img.shields.io/badge/Open%20to-QA%20%2F%20Test%20Automation%20Roles-2F81F7?style=flat" alt="Open to work" />
 </p>
 
 ---
 
 ### 🧪 About Me
 
-I'm a passionate **QA Engineer** dedicated to quality assurance, testing, and ensuring software products meet the highest standards. With a keen eye for detail and a drive for excellence, I help teams ship reliable, scalable, and bug-free software.
+**Software Test Automation Engineer** with a focus on test automation, image processing, and embedded systems. I develop automated tests with **Python** and **Robot Framework**, and bring hands-on experience in system integration and validation from the **automotive industry** — including projects for **Audi** and **Daimler**. Comfortable in agile Scrum environments and international teams, with a strong focus on software quality and root-cause analysis.
 
-- 🔭 I specialize in **test automation** and building robust test frameworks
-- 🧠 Background in **Python, Java & C++** with hands-on NLP project experience (sentiment analysis of code-mixed text)
-- 🌱 Currently deepening my expertise in **Selenium with Java** and cloud fundamentals
-- 🤝 I love collaborating with dev teams to foster a culture of quality
-- 💬 Ask me about **Selenium, Playwright, automation strategy & test planning**
-- 🌍 Open to QA opportunities — **willing to relocate**
-- ⚡ Fun fact: When I'm not crafting test cases, I'm out hiking, cooking, or lost in a good sci-fi novel
+- 🚗 Built automated tests for **image processing systems** in an Audi project (Python, YOLO, EXAM)
+- 🗣️ Tested **automotive infotainment & voice assistant systems** in a Daimler project (Robot Framework, ECU flashing)
+- 🎓 **M.Sc. Computer Science** (Universität Passau) — thesis on object detection in front of fast-moving trains (YOLOv5, BiSeNetV2)
+- 📜 **ISTQB® Certified Tester** — Foundation Level (CTFL)
+- 🤖 Passionate about where **computer vision meets quality assurance**
+- ⚡ Off duty: cricket 🏏, PC gaming 🎮, and discus throw 🥏
 
 ---
 
-### 🚀 What I Love to Do
+### 💼 Experience
 
-```text
-🤖  Automated Testing      →  Selenium, Playwright, Jest & Cypress to optimize testing
-🔍  Manual & Exploratory   →  Meticulously uncovering the tiniest bugs
-📋  Test Planning          →  Comprehensive, precise, data-driven strategies
-📈  Continuous Improvement →  Adding value to every step of the dev process
-```
+| Period | Role | Project |
+|---|---|---|
+| 2024 – 2025 | **Test Automation Engineer** · Engineering People GmbH | 🚘 **Audi** (PSW GmbH) — automated testing of image processing systems, YOLO model training & validation, EXAM integration |
+| 2023 – 2024 | **Software Test Automation Engineer** · Engineering People GmbH | 🚙 **Daimler** (Cerence AG) — automotive infotainment & voice assistant testing, ECU flashing, Robot Framework, KPI-based quality analysis |
+| 2020 | **QA Engineer** · TM Sign Solution GmbH | ✅ Requirements-based test design, API testing (Postman), Selenium WebDriver regression automation |
 
 ---
 
@@ -44,77 +42,67 @@ I'm a passionate **QA Engineer** dedicated to quality assurance, testing, and en
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,html,css&theme=dark" alt="Languages" />
 </p>
 
-**Automation & Frameworks**
+**Test Automation & Frameworks**
 <p align="left">
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
 </p>
 
-**CI/CD, Test Management & Tools**
+**AI / Computer Vision**
 <p align="left">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+**Databases, Tools & Workflow**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge" />
 </p>
 
 ---
 
-### 📜 Certifications & Learning
+### 🎓 Education
 
-| Certification | Platform | Status |
+| Degree | Institution | Highlight |
 |---|---|---|
-| 🧪 Software Testing using **Selenium with Java** | Udemy | 🔄 In progress |
-| ☁️ Introduction to **Cloud Computing** | Coursera | ✅ Completed |
-| 🖥️ **IT Support Fundamentals** | Coursera | ✅ Completed |
+| **M.Sc. Computer Science** | Universität Passau 🇩🇪 | Thesis: *Object detection in front of fast-moving trains* — computer-vision warning system for train drivers (Python, YOLOv5, BiSeNetV2, COCO) |
+| **B.Sc. Software Engineering** | University of Gujrat | Thesis: First-person-shooter game + statistics website (C#, Unity 3D, ASP.NET MVC) |
+
+---
+
+### 📜 Certifications
+
+- 🏅 **ISTQB® Certified Tester — Foundation Level (CTFL)** · GASQ
+- 🇩🇪 **TELC B1 & TELC B2 Beruf** German language certificates
+- 🧪 **Selenium WebDriver with Java** — Basics to Advanced + Frameworks · Udemy
+- 🗄️ **The Complete SQL Bootcamp** · Udemy
+- 🔄 **SCRUM Fundamentals** · SCRUMstudy
 
 ---
 
 ### 🌍 Languages I Speak
 
 <p align="left">
-  <img src="https://img.shields.io/badge/English-Professional-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-Business%20Fluent-FFCE00?style=for-the-badge&labelColor=DD0000" />
+  <img src="https://img.shields.io/badge/English-Business%20Fluent-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Urdu-Native-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-A2%20%C2%B7%20Learning-FFCE00?style=for-the-badge&labelColor=DD0000" />
+  <img src="https://img.shields.io/badge/Punjabi-Native-success?style=for-the-badge" />
 </p>
-
----
-
-### 🌟 Featured Project
-
-<table>
-  <tr>
-    <td>
-      <h4>🌤️ Skycast — Weather Forecast App</h4>
-      <p>A clean, responsive weather app with city search, current conditions and a 7-day forecast. Built with <b>vanilla JavaScript</b> and the free Open-Meteo API — zero dependencies, zero API keys.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>💬 Sentiment Analysis of Code-Mixed Text</h4>
-      <p>NLP project analyzing sentiment in code-mixed (multilingual) text using <b>Python</b> and Jupyter notebooks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -130,10 +118,6 @@ I'm a passionate **QA Engineer** dedicated to quality assurance, testing, and en
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ehtsham007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehtsham007&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
 
@@ -142,15 +126,15 @@ I'm a passionate **QA Engineer** dedicated to quality assurance, testing, and en
 ### 💡 My Approach to Testing
 
 > Testing isn't just about finding bugs — it's about **adding value** to the development process.
-> I work closely with development teams to foster a culture of quality and continuous improvement,
-> with strategies that are data-driven and focused on delivering reliable, scalable solutions.
+> From KPI-based quality analysis to root-cause debugging, I believe in data-driven strategies
+> that make software reliable, scalable, and safe — especially where software meets the real world.
 
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:ehtsham124@gmail.com">
+  <a href="mailto:rashid.ehtsham@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ehtsham007">
@@ -158,6 +142,6 @@ I'm a passionate **QA Engineer** dedicated to quality assurance, testing, and en
   </a>
 </p>
 
-<p align="center"><i>Looking forward to connecting with like-minded folks who share a passion for quality. Happy testing! 🚀</i></p>
+<p align="center"><i>Open to QA & Test Automation opportunities — let's talk quality. 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0ea5e9&height=120&section=footer" width="100%" />
