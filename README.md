@@ -134,14 +134,11 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:rashid.ehtsham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/Ehtsham007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center"><i>Open to QA & Test Automation opportunities — let's talk quality. 🚀</i></p>
+<p align="center"><i>Open to QA & Test Automation opportunities — reach out here on GitHub and let's talk quality. 🚀</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0ea5e9&height=120&section=footer" width="100%" />
